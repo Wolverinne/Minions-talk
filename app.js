@@ -1,6 +1,6 @@
-var btntranslate=document.querySelector("#btn-translate");
+var btntranslate=document.querySelector("#translate-button");
 
-var txtinput=document.querySelector("#txt-input")
+var txtinput=document.querySelector("#translate-input")
 
 var outputdiv=document.querySelector("#output")
 
